@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Hazem Saidani</span> from{" "}
             <span className="purple">Tunisia.</span>
             <br />
-            I am a <span className="purple">Data Analyst</span> and <span className="purple">MERN Stack Developer </span>@<span className="purple">Digital Move Up</span>.
+            <span className="purple">Data Analyst</span> and <span className="purple">MERN Stack Developer </span>@<span className="purple">DigitalMoveUp</span>.
             <br />
             My experience spans web development using the MERN stack (React, Node.js, MongoDB, Express.js) and data analysis with tools like <span className="purple">Python</span> and <span className="purple">Power BI...</span>.
             <br />

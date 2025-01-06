@@ -57,9 +57,9 @@ function Home() {
   {`
     @media (max-width: 768px) {
       img[alt="home pic"] {
-        max-height: 250px !important;
+        max-height: 310px !important;
         border-radius: 40% !important;
-        margin-top:20px;
+        margin-top:30px;
       }
       .home-logo-container {
         display: flex;
