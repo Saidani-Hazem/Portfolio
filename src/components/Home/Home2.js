@@ -13,18 +13,7 @@ function Home2() {
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>
-
-
-
-
-
-
-
-
-
-
-
-        
+  
       <Row>
   <Col md={8} className="home-about-description" >
     <h1 style={{ fontSize: "2.6em" }}>
@@ -36,15 +25,15 @@ function Home2() {
       <br />
       <br />
       I specialize in data analysis, turning raw data into actionable insights using tools and languages like
-      <i>
+      
         <b className="purple"> Python, Pandas</b> and <b className="purple">SQL  ... </b>
-      </i>
+      
       <br />
       <br />
       As a MERN stack developer, I enjoy building dynamic web applications using 
-      <i>
+      
         <b className="purple"> MongoDB, Express.js, React.js, </b> and <b className="purple">Node.js, </b>
-      </i>
+      
       focusing on creating efficient solutions.
       <br />
       <br />
@@ -58,19 +47,6 @@ function Home2() {
     </Tilt>
   </Col>
 </Row>
-
-
-
-
-
-
-
-
-
-
-
-
-
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
