@@ -6,7 +6,6 @@ import "./van.css";
 
 import { Link } from "react-router-dom";
 
-import { ImBlog } from "react-icons/im";
 import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
@@ -91,14 +90,6 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
-              <Nav.Link
-                href="/blogs"
-                rel="noreferrer"
-              >
-                <ImBlog style={{ marginBottom: "2px" }} /> Blogs
-              </Nav.Link>
-            </Nav.Item>
           </Nav>
         </Navbar.Collapse>
       </Container>
